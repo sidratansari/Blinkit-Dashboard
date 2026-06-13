@@ -98,7 +98,7 @@ Track ratings and product visibility to improve customer satisfaction.
 Understand item distribution and demand trends for better stock planning.
 📍 Strategic Decision Making
 Support management with actionable insights for pricing, marketing, and operational improvements.                               
-6. Screenshots / Demo                                                                                                         
+6. Screenshots / Demo                                                                                                         https://github.com/sidratansari/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard%20Screenshot.png
 Dashboard Preview
 Dashboard Highlights:
 Interactive filters for Outlet Location, Outlet Size, and Item Type.
